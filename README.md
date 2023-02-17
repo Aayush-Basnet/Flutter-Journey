@@ -15,3 +15,7 @@ This is simple counting app where number in screen increase by 1 as you click "+
 ### Day03 Score App
 This is score count app where number increase/decrease by 1 when user click increase/decrease button. As score will restart from 0 when user click floating Icon on the screen.
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/83072ede40b3cbc9cca937fd2bd75ab5efb4ac61/score%20changer.jpg)
+
+## Dice Roller
+### Day04 Dice_roller
+I'm sure you have played Ludo more than once in your lifetime. What happen when you touch the dice? It rolls and comes a ramdon number. It can be 2, or maybe it can be 6 or 1. No one know the next number. Based on that concept, I have made a dice_roller concept where the number of picture or dice rolls randomly when you click roll button. Like the Ludo, here the next number is random which bring fun in practice.
