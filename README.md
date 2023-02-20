@@ -21,3 +21,8 @@ This is score count app where number increase/decrease by 1 when user click incr
 I'm sure you have played Ludo more than once in your lifetime. What happen when you touch the dice? It rolls and comes a ramdon number. It can be 2, or maybe it can be 6 or 1. No one know the next number. Based on that concept, I have made a dice_roller concept where the number of picture or dice rolls randomly when you click roll button. Like the Ludo, here the next number is random which bring fun in practice.
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/f43244ed7d1d6fd1312ab86ed455e39588d0215c/Dice_roller1.jpg)
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/f43244ed7d1d6fd1312ab86ed455e39588d0215c/Dice_roller2.jpg)
+
+## To Do App
+###Day05 to_do_app
+Keep your daily activity on to_do_app. Just add your activity with the '+' button floating on the screen...
+![alt text]()
