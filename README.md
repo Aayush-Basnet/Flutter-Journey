@@ -31,4 +31,4 @@ Keep your daily activity on to_do_app. Just add your activity with the '+' butto
 ### Day06 calculalor
 What I learn new form this project? The first thing I learned is to put background color in aapbar and second thing is proper use of decoration in textfield and material button.
 This is simple interest calculato where you enter principal, time and rate for SI.. Just enter your value and click and calculate button to find your answer.
-![alt text]()
+![alt text](https://github.com/Aayush-Basnet/Photos/blob/919ee814e24a034c0443208d3ba994a41d2784d3/simple%20Interest%20calculator.jpg)
