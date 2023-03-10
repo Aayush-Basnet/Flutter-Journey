@@ -37,3 +37,7 @@ This is simple interest calculato where you enter principal, time and rate for S
 ### Day07 Phone Dialer App
 Save phone numbers in contact app and make a call.
 ![alt text](https://github.com/Aayush-Basnet/Flutter-Journey/blob/841fcf565452cad58bef3e9f8409611b16fd2486/Flutter%20Images/Contact.jpg)
+
+### Navigation App
+### Day08 Bottom Navigation Bar App
+![Homepage](https://github.com/Aayush-Basnet/Flutter-Journey/blob/b235ab468f40d21acfc7cfeb7e3705672e50deba/Flutter%20Images/Bottom%20Navigation%20App%20Homepage.jpg)
