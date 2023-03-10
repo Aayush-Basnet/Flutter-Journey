@@ -41,3 +41,4 @@ Save phone numbers in contact app and make a call.
 ### Navigation App
 ### Day08 Bottom Navigation Bar App
 ![Homepage](https://github.com/Aayush-Basnet/Flutter-Journey/blob/b235ab468f40d21acfc7cfeb7e3705672e50deba/Flutter%20Images/Bottom%20Navigation%20App%20Homepage.jpg)
+![About](https://github.com/Aayush-Basnet/Flutter-Journey/blob/fa53ec0be76ed17df233df9b6642d735468fdeb4/Flutter%20Images/Bottom%20Navigation%20App%20About.jpg)
